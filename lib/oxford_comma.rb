@@ -1,4 +1,6 @@
 def oxford_comma(array)
   s = ""
-  #"kiwi and durain"
+  i = 0 
+  if array
+  
 end
