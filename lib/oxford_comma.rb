@@ -1,5 +1,4 @@
 def oxford_comma(array)
-  "kiwi"
+  s = ""
   #"kiwi and durain"
 end
-"kiwi and durain"
